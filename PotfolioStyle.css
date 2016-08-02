@@ -1,0 +1,10 @@
+﻿body {
+    background-color: navy;
+    color: white;
+    font-family:Shruti;
+    text-align: center;
+    font-size: 150%;
+    background-image: url('Images/grayscale.jpg');
+    background-position: center;
+}
+
